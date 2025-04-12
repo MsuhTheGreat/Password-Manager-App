@@ -1,0 +1,4 @@
+*.7z
+*.exe
+seven_zip_path.txt
+*venv
